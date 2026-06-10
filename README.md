@@ -7,8 +7,8 @@ User can add, update, delete their expenses and show summary by category or mont
 
 - **frontend/**: Contains the Streamlit application code
 - **backend/**: Contains the FastAPI backend server, mySQL database & logger to track activities
-- **tests/**: Contains test cased for both frontend and backend
-- **requirements.txt**: Lists of required Python package
+- **tests/**: Contains test cases for both frontend and backend
+- **requirements.txt**: List of required Python packages
 
 ## Setup Instructions
 
